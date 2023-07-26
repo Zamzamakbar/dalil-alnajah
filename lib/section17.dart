@@ -73,7 +73,7 @@ class _Section17State extends State<Section17> {
               height: 10,
             ),
             Text(
-              'Jadikan pemuda harapan,shalat malam sebagai kendaraan dengannya kamu mendapatkan,apa saja yang dicita -citakan”(2×)',
+              'Jadikan pemuda harapan, shalat malam sebagai kendaraan dengannya kamu mendapatkan,apa saja yang dicita-citakan”(2×)',
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
                 height: 1.5,
@@ -93,7 +93,7 @@ class _Section17State extends State<Section17> {
               height: 10,
             ),
             Text(
-              '“Bukankah kerugian,malam-malam berlaluan tanpa kita mendapatkan,arti yang kita temukan karena tak melakukan,shalat penuh kekhusuan malam pun terus berjalan , umur kita dikurangkan”(2×)',
+              '“Bukankah kerugian, malam-malam berlaluan tanpa kita mendapatkan, arti yang kita temukan karena tak melakukan, shalat penuh kekhusyuan malam pun terus berjalan, umur kita dikurangkan”(2×)',
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
                 height: 1.5,
@@ -152,7 +152,7 @@ class _Section17State extends State<Section17> {
               height: 10,
             ),
             Text(
-              'Waspada pemuda harapan,jauhilah bahayanya zaman',
+              'Waspada pemuda harapan, jauhilah bahayanya zaman',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -165,7 +165,7 @@ class _Section17State extends State<Section17> {
               height: 10,
             ),
             Text(
-              'Taqwalah pada sang Rahman,selama ruh masih dalam badan',
+              'Taqwalah pada sang Rahman, selama ruh masih dalam badan',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -215,7 +215,7 @@ class _Section17State extends State<Section17> {
               height: 30,
             ),
             Text(
-              'Berjuanglah pemuda harapan,sebelum datang kematian',
+              'Berjuanglah pemuda harapan, sebelum datang kematian',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -228,7 +228,7 @@ class _Section17State extends State<Section17> {
               height: 40,
             ),
             Text(
-              'Perangi pemuda harapan,Kemalasan yang lekat di badan Karena akan menghancurkan,Semuanya yang kita harapkan (2x)',
+              'Perangi pemuda harapan, kemalasan yang lekat di badan karena akan menghancurkan, semuanya yang kita harapkan (2x)',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -241,7 +241,7 @@ class _Section17State extends State<Section17> {
               height: 40,
             ),
             Text(
-              'Kegagalan karena kemalasan,Kebodohan sebab kemalasan Kemiskinan dari kemalasam,Penyesalan penyebabnya kemalasan(2x)',
+              'Kegagalan karena kemalasan, Kebodohan sebab kemalasan, Kemiskinan dari kemalasam,Penyesalan penyebabnya kemalasan(2x)',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -254,7 +254,7 @@ class _Section17State extends State<Section17> {
               height: 40,
             ),
             Text(
-              'Hindari pemuda harapan,Mengantuk dalam pengajian Mengantuk dalam pembelajaran,Karena sangat merugikan(2x)',
+              'Hindari pemuda harapan, Mengantuk dalam pengajian Mengantuk dalam pembelajaran, Karena sangat merugikan(2x)',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -267,7 +267,7 @@ class _Section17State extends State<Section17> {
               height: 40,
             ),
             Text(
-              'Ilmunya tak akan dicerna,Kalau ngantuk melanda kita Hari-hari menambah usia,Ilmu kita tetap tiada',
+              'Ilmunya tak akan dicerna, Kalau ngantuk melanda kita hari-hari menambah usia, ilmu kita tetap tiada',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -436,7 +436,7 @@ class _Section17State extends State<Section17> {
               height: 20,
             ),
             Text(
-              'Berjuanglah pemuda harapan ,sebelum datang kematian.',
+              'Berjuanglah pemuda harapan, sebelum datang kematian.',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -474,7 +474,7 @@ class _Section17State extends State<Section17> {
               height: 10,
             ),
             Text(
-              'Dengan kadar jerih payahnya upaca,Kesuksesan pula yang di tangan kita',
+              'Dengan kadar jerih payahnya upaya, Kesuksesan pula yang di tangan kita',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -487,7 +487,7 @@ class _Section17State extends State<Section17> {
               height: 15,
             ),
             Text(
-              'Kandas pasti apa yang di cita-cita,Tanla keras upaya kita semua',
+              'Kandas pasti apa yang dicita-cita, Tanpa keras upaya kita semua',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -500,7 +500,7 @@ class _Section17State extends State<Section17> {
               height: 15,
             ),
             Text(
-              'Tangis kenistaan yang kita rasakan,Kala kita menyaksikan kegagalan',
+              'Tangis kenistaan yang kita rasakan, Kala kita menyaksikan kegagalan',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -513,7 +513,7 @@ class _Section17State extends State<Section17> {
               height: 15,
             ),
             Text(
-              'Dari dini mari kita persiapkan,Segalanya dan berdoa dilakukan',
+              'Dari dini mari kita persiapkan, Segalanya dan berdoa dilakukan',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -546,7 +546,7 @@ class _Section17State extends State<Section17> {
               height: 20,
             ),
             Text(
-              'Jadikan pemuda harapan,Sholat malam bagai kendaraan',
+              'Jadikan pemuda harapan, Sholat malam bagai kendaraan',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -559,7 +559,7 @@ class _Section17State extends State<Section17> {
               height: 15,
             ),
             Text(
-              'Dengannya kamu mendapatkan,Apa saja yang dicita-cita kan ',
+              'Dengannya kamu mendapatkan, Apa saja yang dicita-cita kan ',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -605,7 +605,7 @@ class _Section17State extends State<Section17> {
               height: 5,
             ),
             Text(
-              'Tanpa kita mendapatkan,arti yang kita temukan ',
+              'Tanpa kita mendapatkan, arti yang kita temukan ',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.roboto(
                   textStyle: TextStyle(
@@ -617,7 +617,7 @@ class _Section17State extends State<Section17> {
               height: 10,
             ),
             Text(
-              'Karena tak melakukan , shalat penuh kekhusuan',
+              'Karena tak melakukan, shalat penuh kekhusyuan',
               // textDirection: TextDirection.rtl,
               style: GoogleFonts.poppins(
                   textStyle: TextStyle(
